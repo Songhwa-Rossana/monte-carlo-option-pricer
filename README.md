@@ -80,7 +80,6 @@ This project demonstrates:
 - **Python**: NumPy, SciPy, matplotlib, pandas, pytest
 - **C++**: C++17, STL, OpenMP
 - **Integration**: pybind11
-- **Build**: CMake
 - **Testing**: pytest, Google Test
 - **Documentation**: Jupyter notebooks, Markdown
 
