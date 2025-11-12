@@ -13,7 +13,7 @@ A high-performance Monte Carlo simulation engine for pricing financial derivativ
 - Understand variance reduction techniques and their impact
 - Gain experience with C++ optimization and Python-C++ integration
 - Build a portfolio-ready quantitative finance project
-- **Timeline: 5 days (Oct 27-31, 2025)**
+- **Timeline: 5 days**
 
 ## ✨ Features
 
