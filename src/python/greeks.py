@@ -225,7 +225,7 @@ class GreeksCalculator:
             params_down = OptionParameters(
                 S0=option.params.S0,
                 K=option.params.K,
-                T=max(option.params.T - dt, 0. 001),  # Avoid zero
+                T=max(option.params.T - dt, 0.001),  # Avoid zero
                 r=option.params. r,
                 sigma=option. params.sigma,
                 option_type=option.params.option_type
