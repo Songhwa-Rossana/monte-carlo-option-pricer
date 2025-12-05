@@ -160,7 +160,7 @@ class VarianceReducer:
             analytical_price = option.analytical_price()
             results['analytical'] = {
                 'price': analytical_price,
-                'std_error': 0. 0,
+                'std_error': 0.0,
                 'method': 'Black-Scholes'
             }
         
